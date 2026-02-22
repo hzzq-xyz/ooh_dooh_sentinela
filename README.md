@@ -1,2 +1,2 @@
-Sistema SENTINELA 1.0 (beta) - Constuído para facilitar a Gestão de Checking e Programação de Veículos de Mídia OOH e DOOH
+Sistema SENTINELA 1.0 (beta) - Constuído para facilitar a Gestão de Checking e Programação de Veículos de Mídia OOH e DOOH <br>
 Usa Laravel 12 + Filament 5
